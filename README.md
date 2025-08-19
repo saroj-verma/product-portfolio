@@ -18,10 +18,15 @@ I’m a Product Manager with 11+ years of experience across software development
 ---
 
 ## Case Studies
-- **[QuickBooks Payroll — Workflow Automation (-40% manual steps)](case-studies/qb-payroll-automation.md)**
-- **[TurboTax — Conversion Lift via UX + Mobile (-18% abandonment, +28% mobile conv.)](case-studies/turbotax-conversion.md)**
-- **[Credit Karma — ML Recommendations (+35% CTR, +22% approvals)](case-studies/credit-karma-ml-recos.md)**
-- **[Mastercard — Global Payments Reliability (99.99% uptime, –30% MTTR)](case-studies/mastercard-ops-resilience.md)**
+- [QuickBooks Payroll — Workflow Automation (-40% manual steps)](case-studies/qb-payroll-automation.md)
+- [TurboTax — Conversion Lift via UX + Mobile (-18% abandonment, +28% mobile conv.)](case-studies/turbotax-conversion.md)
+- [Credit Karma — ML Recommendations (+35% CTR, +22% approvals)](case-studies/credit-karma-ml-recos.md)
+- [Mastercard — Global Payments Reliability (99.99% uptime, –30% MTTR)](case-studies/mastercard-ops-resilience.md)
+- [ServiceNow → Data Lake Automation for Incident Analytics](case-studies/servicenow-data-automation.md)
+- [Amazon QuickSight — Bug & RCA Tracking Portal](case-studies/quicksight-bug-rca-portal.md)
+- [Google Sheets Automation — Apps Script + Macros](case-studies/gsheets-apps-script-automation.md)
+- [Qlik Sense + GenAI Workbench — Executive Insight Dashboards](case-studies/qliksense-genai-workbench.md)
+
 
 ---
 
@@ -31,7 +36,10 @@ I’m a Product Manager with 11+ years of experience across software development
 **Engineering:** REST/SOAP APIs, Microservices, CI/CD (Jenkins), AWS (EC2/S3/ECS)  
 **Ops/Obs:** Splunk, Dynatrace, RCA, incident management
 
+
+
 ---
 
+
 ## Resume
-- PDF version in `/docs` (optional)
+📄 [Download my resume](docs/Saroj-Verma-Resume.pdf)
