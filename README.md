@@ -13,7 +13,7 @@ I’m a Product Manager with 11+ years of experience across software development
 - Blended product + ops: **99.99% uptime**, **–30% MTTR**, and RCA playbooks that prevented recurrences.
 - Analytics & AI: Qlik Sense (GenAI / AI Workbench), Amazon QuickSight, SQL, API integrations, observability (Splunk, Dynatrace).
 
-Full background sourced from my [Resume](saroj-Verma-Resume.pdf)
+Full background sourced from my [Resume](Saroj-Verma-Resume.pdf)
 
 
 ---
