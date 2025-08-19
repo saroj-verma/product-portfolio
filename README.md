@@ -43,4 +43,4 @@ Full background sourced from my [Resume](Saroj-Verma-Resume.pdf)
 
 
 ## Resume
-📄 [Download my resume](docs/Saroj-Verma-Resume.pdf)
+📄 [Download my resume](Saroj-Verma-Resume.pdf)
