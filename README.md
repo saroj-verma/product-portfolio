@@ -1,14 +1,4 @@
 
-product-portfolio/
-├─ README.md                 # your homepage
-├─ case-studies/
-│  ├─ qb-payroll-automation.md
-│  ├─ turbotax-conversion.md
-│  ├─ credit-karma-ml-recos.md
-│  └─ mastercard-ops-resilience.md
-├─ assets/
-│  └─ images/                # (optional screenshots/charts)
-└─ docs/                     # (optional extras: resume pdf, one-pagers)
 
 # Saroj Verma — Product Manager
 
